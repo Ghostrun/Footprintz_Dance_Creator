@@ -250,14 +250,17 @@
                 hide.style.position = "absolute";
                 hide.style.left = "26%";
                 hide.style.top = "0";
-                hide.style.height = "5%";
+                hide.style.height = "7.5%";
                 hide.style.width = "15%";
                 hide.style.backgroundColor = "#fff";
                 hide.style.border = "1px solid #000";
                 hide.style.zIndex = '3';
                 hide.innerText = "Show Ghosts?";
                 hide.style.cursor = "pointer";
+                hide.style.display = 'flex';
+                hide.style.flexDirection = 'column';
                 hide.style.textAlign = "center";
+                hide.style.justifyContent = "center";
                 document.body.appendChild(hide);
                 hide.addEventListener("click", function() {
                     if (hideon == false) {
@@ -661,6 +664,7 @@
                     textContent: Lin,
                     style: `position: absolute; left: ${Lleft}%; top: ${Ltop}%; width: 5%; height: 8%; background: #fff; border: 2px solid #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 100%; font-weight: bold;`,
                     });
+                    if (phone==true) circle.style.height = '12%';
                     if (n == 1) {
                         circle.classList.add('n1');
                         circle.addEventListener('mouseover', () => {
