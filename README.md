@@ -12,4 +12,4 @@ Click on the name of a dance to copy its code to the clipboard, click "Enter Cod
 Sharing? Send dance code and name to friends so they can add your dance to their device using the "Add Dance" button after clicking "Load Dance". Dance code needs to be exact, but name can be changed. \
 "Phone?" changes sizing slightly to look better on phone screens. \
 \
-Originally created for the Messiah University Footprintz dance team. \
+Originally created for the Messiah University Footprintz dance team. 
