@@ -1,5 +1,5 @@
 hi\
-https://sceptiletech.github.io/Footprintz_Dance_Creator/ \
+https://sceptiletech.github.io/Footprintz_Formation_Creator/ \
 \
 A program designed to allow users to create dance formations with an easy way to share with others. \
 "Create New Dance" brings users to a page to create their own dance.  \
